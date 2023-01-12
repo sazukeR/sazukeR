@@ -4,10 +4,7 @@ About Me
 Hello, my name is Reinaldo Contreras and I am a web developer learning the ropes of JavaScript, React and Node.js. I am passionate about coding and I am always looking for new challenges. I'm excited to continue learning more about web development and building new projects.
 
 ## Skills 
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20" style="border-radius: 50%; display: inlinek;"> 
-    <h6 style="line-height: 0.9; margin-top: -10px; display: inline;">Javascript</h6>
-</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20" style="border-radius: 50%; display: inlinek;"> <span>Javascript</span>
 - React
 - Node.js
 - Figma
