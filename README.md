@@ -21,7 +21,7 @@ Hello, my name is Reinaldo Contreras and I am a web developer learning the ropes
 
 <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20" height="20" style="border-radius: 50%; display: inlinek;" alt="Gmail:"> <span>reinaldojcg1@gmail.com</span>
 
-<img src="https://iconmonstr.com/linkedin-2-svg/" width="20" height="20" style="border-radius: 50%; display: inlinek;" alt="Figma"> <span> https://www.linkedin.com/in/reinaldo-jesus-contreras-4394041a2/ </span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" style="border-radius: 50%; display: inlinek;" alt="Figma"> <span> https://www.linkedin.com/in/reinaldo-jesus-contreras-4394041a2/ </span>
 
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" width="20" height="20" style="border-radius: 50%; display: inlinek;" alt="CodePen:">  <span>https://codepen.io/reinaldojcg1s</span>
 
