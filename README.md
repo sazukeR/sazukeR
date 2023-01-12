@@ -5,8 +5,8 @@ Hello, my name is Reinaldo Contreras and I am a web developer learning the ropes
 
 ## Skills 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20" style="border-radius: 50%;"> 
-    <h6 style="line-height: 0.9; margin-top: -10px; display: inline;">Javascript</h6>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20" style="border-radius: 50%; display: inline-block;"> 
+    <h6 style="line-height: 0.9; margin-top: -10px; display: inline-block;">Javascript</h6>
 </div>
 - React
 - Node.js
