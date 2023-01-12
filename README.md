@@ -5,10 +5,10 @@ Hello, my name is Reinaldo Contreras and I am a web developer learning the ropes
 
 ## Skills 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20" style="border-radius: 50%; display: inlinek;"> <span>Javascript</span>
-- React
-- Node.js
-- Figma
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20" height="20" style="border-radius: 50%; display: inlinek;"> <span>React</span>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20" height="20" style="border-radius: 50%; display: inlinek;"> <span>Node.js</span>
 
 
 ## Learning
