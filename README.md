@@ -13,7 +13,7 @@ Hello, my name is Reinaldo Contreras and I am a web developer learning the ropes
 
 ## Contact
 - Email: reinaldojcg1@gmail.com
-- LinkedIn: linkedin.com/in/reinaldo-jesus-contreras-gonzalez-4394041a2
+- LinkedIn: https://www.linkedin.com/in/reinaldo-jesus-contreras-4394041a2/
 - CodePen: https://codepen.io/reinaldojcg1
 
 
