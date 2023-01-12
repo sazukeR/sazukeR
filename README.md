@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**sazukeR/sazukeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+Hello, my name is Reinaldo Contreras and I am a web developer learning the ropes of JavaScript, React and Node.js. I am passionate about coding and I am always looking for new challenges. I'm excited to continue learning more about web development and building new projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- JavaScript
+- React
+- Node.js
+
+## Learning
+- Currently learning about web development with JavaScript, React and Node.js.
+
+## Contact
+- Email: reinaldojcg1@gmail.com
+- LinkedIn: linkedin.com/in/reinaldo-jesus-contreras-gonzalez-4394041a2
+
+
+Thank you for visiting my profile, feel free to reach out if you have any questions or if you are looking to collaborate on a project.
