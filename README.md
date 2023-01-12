@@ -21,11 +21,11 @@ Hello, my name is Reinaldo Contreras and I am a web developer learning the ropes
 
 <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20" height="20" style="border-radius: 50%; display: inlinek;" alt="Gmail:"> <span>reinaldojcg1@gmail.com</span>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" style="border-radius: 50%; display: inlinek;" alt="Figma"> <span> https://www.linkedin.com/in/reinaldo-jesus-contreras-4394041a2/ </span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" style="border-radius: 50%; display: inlinek;" alt="Figma"> <span> www.linkedin.com/in/reinaldo-jesus-contreras-4394041a2/ </span>
 
-<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" width="20" height="20" style="border-radius: 50%; display: inlinek;" alt="CodePen:">  <span>https://codepen.io/reinaldojcg1s</span>
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" width="20" height="20" style="border-radius: 50%; display: inlinek;" alt="CodePen:">  <span>www.codepen.io/reinaldojcg1s</span>
 
-<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="20" height="20" style="border-radius: 50%; display: inlinek;" alt="HackerRank"> <span>https://www.hackerrank.com/reinaldojcg1</span>
+<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="20" height="20" style="border-radius: 50%; display: inlinek;" alt="HackerRank"> <span>www.hackerrank.com/reinaldojcg1</span>
 
 
 Thank you for visiting my profile, feel free to reach out if you have any questions or if you are looking to collaborate on a project.
