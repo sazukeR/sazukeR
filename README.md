@@ -1,7 +1,9 @@
 
-About Me
+# About Me
 
-Hello, my name is Reinaldo Contreras and I am a web developer learning the ropes of JavaScript, React and Node.js. I am passionate about coding and I am always looking for new challenges. I'm excited to continue learning more about web development and building new projects.
+Hello, my name is Reinaldo Contreras and I am a web developer, from a young age, I have been interested in technology, creating high-quality code and enhancing the user experience through my work.
+
+I believe that what truly makes you an expert in software engineering is assertive communication with the team and the ability to professionally present your work in a way that is understandable to everyone.
 
 ## Skills 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20" style="border-radius: 50%; display: inlinek;"> <span>Javascript</span>
