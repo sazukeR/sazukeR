@@ -14,9 +14,6 @@ I believe that what truly makes you an expert in software engineering is asserti
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="20" height="20" style="border-radius: 50%; display: inlinek;"> <span>Figma</span>
 
-## Learning
-- Currently learning about web development with JavaScript, React and Node.js.
-
 
 ## Contact
 
